@@ -1,0 +1,24 @@
+{
+    "name": "ftec-faculdades/dti-aluno",
+    "description": "Módulo responsável para o gerenciamento dos alunos",
+    "type": "library",
+    "license": "MIT",
+    "keywords": [
+        "module",
+        "zf2",
+        "dti",
+		"aluno"
+    ],
+    "homepage": "https://github.com/ftec-faculdades/DTIAluno",
+    "authors": [
+        {
+            "name": "Sérgio Ernane Munhós Hermes",
+            "email": "sergiohermes@ftec.com.br"
+        }
+    ],
+    "autoload": {
+        "psr-0": {
+            "DTIAluno": "src/"
+        }
+    }
+}
